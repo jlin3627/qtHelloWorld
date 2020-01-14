@@ -1,5 +1,5 @@
 # qtHelloWorld
-Learning to use QT to display hello world
+Learning to use QT
 
 Lesson 1:\
 Code Link: https://github.com/jlin3627/qtHelloWorld/tree/master/ClickHello \
